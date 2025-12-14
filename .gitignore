@@ -1,0 +1,11 @@
+*.sql.backup
+*password*
+*.dump
+*.bak
+backups/
+*.bin
+*-bin.*
+.DS_Store
+.vscode/
+tmp/
+*.log
