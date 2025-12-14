@@ -388,9 +388,9 @@ This is a portfolio project, but suggestions are welcome! If you find issues or 
 
 BS Computer Science Student  
 
-&nbsp;Email: your.email@example.com  
+&nbsp;Email: khadeejah1065@gmail.com  
 
-&nbsp;LinkedIn: \[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+&nbsp;LinkedIn: \[linkedin.com/in/khadeejah-yasin-10y](https://www.linkedin.com/in/khadeejah-yasin-10y/) 
 
 &nbsp;Location: Pakistan
 
